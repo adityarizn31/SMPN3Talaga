@@ -1,0 +1,181 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#abdi {
+  text-align: center;
+}
+
+nav {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E7E6E1;
+  display: flex;
+}
+
+.nav-item {
+  position: relative;
+  color: #FFFFFF;
+}
+
+.nav-link {
+  display: block;
+  padding: 20px 15px;
+  margin: 0;
+  text-decoration: none;
+  color: #ccaaaa;
+}
+
+.nav-link a {
+  color: #FFFFFF;
+}
+
+.nav-link:after {
+  content: "";
+  display: none;
+  height: 2px;
+  width: 100%;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  background-color: #11698E;
+}
+
+.nav-link.active,
+.nav-link:hover {
+  color: white;
+}
+
+.nav-link.active:after,
+.nav-link:hover:after {
+  display: block;
+}
+
+.nav-item:hover .nav-dropdown {
+  display: block;
+}
+
+.nav-dropdown {
+  position: absolute;
+  display: none;
+  z-index: 999;
+  top: 58px;
+  left: 0px;
+  width: 200px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  background-color: rgb(231, 16, 16);
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+.nav-dropdown a {
+  display: block;
+  padding: 20px;
+  color: white;
+  /*warna teks*/
+  text-decoration: none;
+}
+
+.nav-dropdown a:hover {
+  background-color: white;
+}
+
+.gambar img {
+  float: left;
+  width: 170px;
+  height: 170px;
+}
+
+/* * {
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E7E6E1;
+  display: flex;
+}
+
+.nav-item {
+  position: relative;
+  color: #FFFFFF;
+}
+
+.nav-link {
+  display: block;
+  padding: 20px 15px;
+  margin: 0;
+  text-decoration: none;
+  color: #ccaaaa;
+}
+
+.nav-link a {
+  color: #FFFFFF;
+}
+
+.nav-link:after {
+  content: "";
+  display: none;
+  height: 2px;
+  width: 100%;
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  background-color: #11698E;
+}
+
+.nav-link.active,
+.nav-link:hover {
+  color: white;
+}
+
+.nav-link.active:after,
+.nav-link:hover:after {
+  display: block;
+}
+
+.nav-item:hover .nav-dropdown {
+  display: block;
+}
+
+.nav-dropdown {
+  position: absolute;
+  display: none;
+  z-index: 999;
+  top: 58px;
+  left: 0px;
+  width: 200px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  background-color: rgb(231, 16, 16);
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+.nav-dropdown a {
+  display: block;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-dropdown a:hover {
+  background-color: white;
+}
+
+.para1 {
+  text-align: center;
+}
+
+h5 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+.navbar-brand {
+  font-family: 'Times New Roman', Times, serif;
+} */
