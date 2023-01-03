@@ -190,59 +190,6 @@ include 'koneksi.php';
       </div>
     </div>
 
-    <!-- Berita -->
-    <div class="p-2 m-0 border-0 bd-example">
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="card">
-            <img src="media/prestasi/Pres1.jpeg" alt="">
-            <title>Card image cap</title>
-            <rect width="100%" height="100%" fill="#868e96"></rect>
-            <div class="card-body">
-              <h5 class="card-title" style="color: black;"> Perlombaan Pramuka SMPN 3 Talaga </h5>
-              <!-- <p class=" card-text" style="color: black;">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-              </p> -->
-              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-4">
-          <div class="card">
-            <img src="media/kegiatan/4.jpeg" alt="">
-            <title>Card image cap</title>
-            <div class="card-body">
-              <h5 class="card-title" style="color: black;"> Pengabdian di SMPN 3 Talaga </h5>
-              <!-- <p class="card-text" style="color: black;">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-              </p> -->
-              <a href="pengabdian.php" class="btn btn-primary stretched-link">Go somewhere</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-4">
-          <div class="card">
-            <img src="media/kegiatan/futsalputri.jpeg" alt="">
-            <title>Card image cap</title>
-            <div class="card-body">
-              <h5 class="card-title" style="color: black;"> Sparing Futsal Putri </h5>
-              <!-- <p class="card-text" style="color: black;">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-              </p> -->
-              <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <br>
-
     <div class="p-2 m-0 border-0 bd-example">
       <div class="row">
         <div class="col-sm-4">
@@ -316,8 +263,6 @@ include 'koneksi.php';
     </div> -->
 
   </main>
-
-  <br>
 
 </body>
 
