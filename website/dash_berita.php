@@ -137,5 +137,3 @@ if (isset($_POST['simpan'])) {
 
 
 </body>
-
-</html>

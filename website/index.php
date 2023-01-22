@@ -239,28 +239,6 @@ include 'koneksi.php';
       </div>
     </div>
 
-    <br>
-
-    <!-- <div class="p-5  border-0">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="card">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Card image cap" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Card image cap</title>
-              <rect width="100%" height="100%" fill="#868e96"></rect>
-            </svg>
-            <div class="card-body">
-              <h5 class="card-title">Card with stretched link</h5>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-              </p>
-    <a href="#" class="btn btn-primary stretched-link">Go somewhere</a>
-    </div>
-    </div>
-    </div>
-    </div>
-    </div> -->
 
   </main>
 
@@ -414,9 +392,3 @@ include 'koneksi.php';
   </footer>
   <!-- Footer -->
 </footer>
-
-<!-- Perlombaan
-1. Paduan Suara Juara 1
-2. Pramuka Juara 3
-3. PBB Juara 3
-4. -->
